@@ -1,0 +1,10 @@
+- deprecate: 非推奨
+- concurrent: 並行の
+- mitigate: 軽減する
+- I: 私
+- dog: 犬
+- cat: ねこ
+- radio: ラジオ
+- memory: 記憶
+- mouse: ネズミ
+- my: 私の
